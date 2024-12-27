@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("tp-bg-vector_2024.png");
+    background-size: cover;
+    background-color: black;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    padding: 20px;
+}
+.first-section{
+    height: 100px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.second-section{
+    height: 300px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box1{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+.box2{
+    height: 200px;
+    width: 690px;
+    border-radius: 20px;
+
+}.box3{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+.third-section{
+    height: 350px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.cont1{
+    height: 200px;
+    width: 660px;
+    background-color:rgb(234,106,56);
+    border-radius: 20px;
+
+}
+.cont2{
+    height: 200px;
+    width: 660px;
+    border-radius: 20px;
+
+}
+
+.fourth-section{
+    height: 200px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.container1{
+    height: 180px;
+    width: 180px;
+
+}
+.container2{
+    height: 180px;
+    width: 750px;
+    border-radius: 20px;
+
+}.container3{
+    height: 180px;
+    width: 180px;
+    border-radius: 20px;
+
+}.container4{
+    height: 180px;
+    width: 180px;
+    border-radius: 20px;
+
+}
